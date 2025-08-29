@@ -1,0 +1,21 @@
+<svg width="2000.0000000000002" height="1200" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text fill="#000cff" x="101.62119" y="110.08774" id="svg_5" font-size="47" font-family="'Alegreya'" text-anchor="start" xml:space="preserve" stroke="#ffffff" transform="matrix(5.6939 0 0 5.90918 -543.188 -305.978)" font-style="normal" font-weight="normal" filter="url(#svg_5_blur)">Zatorius</text>
+  <rect stroke="#003f7a" filter="url(#svg_9_blur)" id="svg_27" height="600" width="1000" fill-opacity="0" stroke-width="10" fill="#e5e5e5"/>
+  <rect stroke="#003f7a" filter="url(#svg_9_blur)" id="svg_28" height="600" width="1000" x="1000" fill-opacity="0" stroke-width="10" fill="#e5e5e5"/>
+  <rect x="0" filter="url(#svg_9_blur)" id="svg_29" height="600" width="1000" y="600" fill-opacity="0" stroke-width="10" stroke="#003f7a" fill="#e5e5e5"/>
+  <rect filter="url(#svg_9_blur)" id="svg_30" height="600" width="1000" y="600" x="1000" fill-opacity="0" stroke-width="10" stroke="#003f7a" fill="#e5e5e5"/>
+  <text fill="#000cff" x="101.62119" y="110.08774" id="svg_2" font-size="47" font-family="'Alegreya'" text-anchor="start" xml:space="preserve" stroke="#ffffff" transform="matrix(5.6939 0 0 5.90918 -543.188 -305.978)" font-style="normal" font-weight="normal">Zatorius</text>
+  <text fill="#ffffff" x="200.51873" y="76.95527" id="svg_3" font-size="47" font-family="'Alegreya'" text-anchor="start" xml:space="preserve" stroke="#ffffff" transform="matrix(0.843521 0 0 0.875414 43.6174 415.644)" font-style="italic" font-weight="normal" stroke-width="0">digital synth build with SFML 3.0.0</text>
+  <text stroke-width="2" font-style="normal" font-weight="normal" transform="matrix(1.08198 0 0 1.03637 -1895.03 487.172)" stroke="#ffffff" xml:space="preserve" text-anchor="start" font-family="'Alegreya'" font-size="97" id="svg_13" y="796.89444" x="2992.53352" fill="#000000">Unison</text>
+ </g>
+ <defs>
+  <filter id="svg_5_blur" x="-50%" y="-50%" width="200%" height="200%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="3.2"/>
+  </filter>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_9_blur">
+   <feGaussianBlur stdDeviation="1.3" in="SourceGraphic"/>
+  </filter>
+ </defs>
+</svg>
